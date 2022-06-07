@@ -33,9 +33,13 @@ mydata <- na.omit(mydata)
 ```
 
 
+```{r}
+barchartGC(~race + eatout,data=mydata)
+barchartGC(~race + eatout,data=mydata, type="percent")
 
+```
 
-
+There were about 1,150 white people surveyed with about 85% saying they do eat out and 15% saying they do not. There were about 300 black people surveyed with 70% saying they do eat out and 30% saying they do not. There were about 200 other people surveyed with about 70% saying they eat out and 30% saying they do not.
 
 
 
