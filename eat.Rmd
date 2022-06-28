@@ -127,3 +127,4 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$race,mydata$eatout)
 ```
 
+This test shows that the white people results are different than both the black people and the other races. The results of the black people and other races is fairly similar.
