@@ -48,4 +48,4 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
+This table shows that about 83% of white people ate out, 69% of black people ate out, and 72% of other races ate out. The white people surveyed ate out more than the black people and the other races.
